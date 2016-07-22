@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sequence", "Sequence\Sequence.csproj", "{BB3FDDFC-42B7-4EC2-AE96-A2798DD07F26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sequence.Tests", "SequenceTests\Sequence.Tests.csproj", "{77506D86-3973-40D3-A141-FC5FDA8C082A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB3FDDFC-42B7-4EC2-AE96-A2798DD07F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3FDDFC-42B7-4EC2-AE96-A2798DD07F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3FDDFC-42B7-4EC2-AE96-A2798DD07F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3FDDFC-42B7-4EC2-AE96-A2798DD07F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77506D86-3973-40D3-A141-FC5FDA8C082A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77506D86-3973-40D3-A141-FC5FDA8C082A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77506D86-3973-40D3-A141-FC5FDA8C082A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77506D86-3973-40D3-A141-FC5FDA8C082A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
